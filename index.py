@@ -1,5 +1,7 @@
 #!/usr/bin/python
-
+#facebook.com/p0rtclose
+#instagram/fv.5v
+#https://www.youtube.com/channel/UC2FiUYfYNSP36b8KL6w79rg?view_as=subscriber
 mess = """======================================================
                 generator for index
                  by hayder al-iraqi

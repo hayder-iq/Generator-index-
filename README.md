@@ -7,4 +7,4 @@ to install :
 
 2- python Generator index .py
 
-and wirte 
+And write what is required of you 

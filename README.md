@@ -9,5 +9,7 @@ to install :
 
 And write what is required of you 
 
-but this in end index.html
+
+
+put this in end index.html
 <embed src="http://www.youtube.com/v/youtubeid?fs=1&amp;hl=en_US&autoplay=1"" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="0" height="0" wmode="transparent" ></embed>

@@ -144,8 +144,6 @@ fo.write(messagescript11)
 fo.write(messagescript12)
 fo.write(messagescript13)
 fo.write(messagescript14)
-fo.write(messagescript15)
-fo.write(messagescript16)
 
 print "\nIndex successfully created with the name: index.html"
 

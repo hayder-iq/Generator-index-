@@ -2,11 +2,11 @@
 #facebook.com/p0rtclose
 #instagram/fv.5v
 #https://www.youtube.com/channel/UC2FiUYfYNSP36b8KL6w79rg?view_as=subscriber
-mess = """======================================================
-                generator for index
-                 by hayder al-iraqi
-======================================================"""
-
+mess = """< programed By hayder iQ:~# >
+               $+++++++++++++++++++++++++$
+               $+The next best,God willing+$
+               $+++++++++++++++++++++++++$
+"""
 print mess
 title = raw_input("insert title:")
 heading = raw_input("insert heading :")
